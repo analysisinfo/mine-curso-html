@@ -1,0 +1,61 @@
+@media screen and (min-width: 800px) { 
+  .container { 
+    margin: 1em 2em; 
+
+  } 
+} 
+
+
+body{
+	background: #e6ecff;
+}
+
+img.disposicao{
+
+	max-width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+
+
+#menu{
+
+	background: #4d79ff;
+	
+}
+
+.banner{
+
+	background: #fff;
+	
+	
+}
+
+.banner img{
+
+	max-width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+#conteudo{
+
+}
+
+#lateral{
+
+	
+
+}
+
+#rodape{
+
+	background: #bf8040;
+	
+}
